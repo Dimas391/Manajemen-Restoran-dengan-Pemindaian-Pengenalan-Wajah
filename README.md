@@ -1,16 +1,15 @@
-# restoran
+# Manajemen restoran dengan autentikasi pengenalan wajah dan scanning gambar
 
-A new Flutter project.
+Proyek ini merupakan pengembangan aplikasi mobile yang memanfaatkan teknologi pengenalan wajah untuk autentikasi dan pemindaian gambar menu makanan. Aplikasi ini dirancang untuk meningkatkan efisiensi dan pengalaman pengguna dalam memesan makanan di restoran melalui perangkat mobile. Dengan fitur autentikasi berbasis pengenalan wajah, aplikasi ini memastikan keamanan tambahan bagi pengguna selama proses login.
+Selain itu, aplikasi ini dilengkapi dengan fitur pemindaian gambar menu makanan, yang memungkinkan pelanggan untuk dengan mudah menemukan dan memesan makanan hanya dengan memindai gambar menu yang tersedia. Fitur ini dirancang untuk mempercepat proses pemesanan dan memberikan kemudahan dalam memilih makanan yang diinginkan.
 
-## Getting Started
+## Kelompok 3
 
-This project is a starting point for a Flutter application.
+Anggota:
+  1. Dimas Kurniawan
+  2. Muhammad Alfitrah
+  3. Muhammad Abil
+  4. Muhammad Rafli
+  5. Sulthan Juanda Al-Muttaqqin
+  6. Tri Kumala Sari
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
