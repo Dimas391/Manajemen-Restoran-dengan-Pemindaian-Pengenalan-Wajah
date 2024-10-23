@@ -1,0 +1,101 @@
+name: restoran
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.5.1 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.8
+  google_maps_flutter: ^2.1.1
+  url_launcher: ^6.0.20
+  camera: ^0.10.0+1
+  http: ^1.2.2
+  permission_handler: ^10.2.0
+  path_provider: ^2.0.11
+  mime: ^1.0.0
+  path: ^1.8.1
+  image_picker: ^1.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - image/burger.png
+    - image/logo.png
+    - image/Buttons.png
+    - image/makanan.png
+    - image/iklan.png
+    - image/iklan2.png
+    - image/burger1.png
+    - image/burger2.png
+    - image/burger3.png
+    - image/burger4.png
+    - image/burger5.jpg
+    - image/burger6.png
+    - image/burger7.png
+    - image/burger8.png
+    - image/burger9.png
+    - image/burger10.png
+    - image/burger11.png
+    - image/chicken/chicken1.jpeg
+    - image/chicken/chicken2.jpeg
+    - image/chicken/chicken3.jpeg
+    - image/chicken/chicken4.jpeg
+    - image/chicken/chicken5.jpeg
+    - image/chicken/chicken6.jpeg
+    - image/chicken/chicken7.jpeg
+    - image/chicken/chicken8.jpeg
+    - image/chicken/chicken9.jpeg
+    - image/chicken/chicken10.jpeg
+    - image/beef/beef1.png
+    - image/beef/beef2.png
+    - image/beef/beef3.png
+    - image/beef/beef4.png
+    - image/beef/beef5.png
+    - image/beef/beef6.png
+    - image/beef/beef7.png
+    - image/beef/beef8.png
+    - image/beef/beef9.png
+    - image/beef/beef10.png
+    - image/dessert/dessert1.png
+    - image/dessert/dessert2.png
+    - image/dessert/dessert3.png
+    - image/dessert/dessert4.png
+    - image/dessert/dessert5.png
+    - image/dessert/dessert6.png
+    - image/dessert/dessert7.png
+    - image/dessert/dessert8.png
+    - image/dessert/dessert9.png
+    - image/dessert/dessert10.png
+    - image/veg/veg1.jpg
+    - image/veg/veg2.jpg
+    - image/veg/veg3.jpg
+    - image/veg/veg4.jpg
+    - image/veg/veg5.jpg
+    - image/veg/veg6.jpg
+    - image/veg/veg7.jpg
+    - image/veg/veg8.jpg
+    - image/veg/veg9.jpg
+    - image/veg/veg10.jpg
+    - image/drink/drink1.png
+    - image/drink/drink2.png
+    - image/drink/drink3.png
+    - image/drink/drink4.png
+    - image/drink/drink5.png
+    - image/drink/drink6.png
+    - image/drink/drink7.png
+    - image/drink/drink8.png
+    - image/drink/drink9.png
+    - image/drink/drink10.png
+    
+    
